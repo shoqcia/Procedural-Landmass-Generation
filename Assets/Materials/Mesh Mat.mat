@@ -67,6 +67,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - testTexture:
+        m_Texture: {fileID: 2800000, guid: 169c338dd4153074b89c243728ddb007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BillboardKwToggle: 0
     - _BillboardShadowFade: 0.5
@@ -92,6 +96,7 @@ Material:
     - _UVSec: 0
     - _WindQuality: 0
     - _ZWrite: 1
+    - testScale: 33.69
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
